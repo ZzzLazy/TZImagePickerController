@@ -24,3 +24,5 @@
 "Allow %@ to access your album in \"Settings -> Privacy -> Photos\"" = "Vui lòng tại mục iPhone \" Cài đặt – quyền riêng tư - Ảnh\" mở quyền cho phép %@ truy cập ảnh.";
 "Please allow %@ to access your camera in \"Settings -> Privacy -> Camera\"" = "Vui lòng tại mục iPhone \" Cài đặt – quyền riêng tư - Ảnh\" mở quyền cho phép %@ truy cập máy ảnh";
 "Selected for %ld seconds" = "Đã chọn cho %ld giây";
+"Select a maximum of %zd photos" = "Bạn chỉ có thể chọn tối đa% zd video";
+"Select a minimum of %zd photos" = "Vui lòng chọn ít nhất% zd video";
